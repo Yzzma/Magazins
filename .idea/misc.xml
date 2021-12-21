@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/drawable/collection_bg.xml" value="0.19791666666666666" />
+        <entry key="app/src/main/res/drawable/discovery.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/drawable/edit.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/drawable/loginbtn.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/drawable/separator.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/drawable/toolbar.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/buy_prod.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/main_menu.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/open_menu.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/select_prod.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1078125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1078125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>
